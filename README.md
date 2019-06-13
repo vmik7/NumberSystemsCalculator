@@ -7,7 +7,9 @@ This program helps you to translate number from one number system to another.
 * You should input tests in this format: ***number*** ***from*** ***into***
 
 ***number*** - initial number value
+
 ***from***   - initial number system
+
 ***into***   - number system into which you want to translate initial number
 
 * Program supports number systems from **2** up to **36**.
