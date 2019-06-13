@@ -6,22 +6,9 @@ This program helps you to translate number from one number system to another.
 ## Usage
 * You should input tests in this format: ***number*** ***from*** ***into***
 
-Название файла  | Содержание файла
-----------------|----------------------
-style.css       | Пустой файл каскадной таблицы стилей, в который производится сбока необходимых стилей
-reset.css       | Reset CSS от Эрика Мейера
-normalize.css   | Нормалайзер CSS от Nicolas Gallagher
-block.css       | Основные стили блоков системы
-addition.css    | Дополнительные стили
-fontawesome.css | Стили иконочного шрифта
-layout.css      | Основные стили, применительно к определённому сайту
-lightbox.css    | Стили лайтбокса, если таковой используется
-index.html      | Индексный файл для проверки вносимых изменений
-
--------------|---------------
-***number*** | initial number value
-***from***   | initial number system
-***into***   | number system into which you want to translate initial number
+***number*** - initial number value
+***from***   - initial number system
+***into***   - number system into which you want to translate initial number
 
 * Program supports number systems from **2** up to **36**.
 * Floating point numbers are also supported.
